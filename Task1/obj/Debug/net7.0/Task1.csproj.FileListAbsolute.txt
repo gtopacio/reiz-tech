@@ -1,0 +1,15 @@
+/home/user/code/reiz-tech/Task1/bin/Debug/net7.0/Task1
+/home/user/code/reiz-tech/Task1/bin/Debug/net7.0/Task1.deps.json
+/home/user/code/reiz-tech/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/home/user/code/reiz-tech/Task1/bin/Debug/net7.0/Task1.dll
+/home/user/code/reiz-tech/Task1/bin/Debug/net7.0/Task1.pdb
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.dll
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/refint/Task1.dll
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.pdb
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/home/user/code/reiz-tech/Task1/obj/Debug/net7.0/ref/Task1.dll
